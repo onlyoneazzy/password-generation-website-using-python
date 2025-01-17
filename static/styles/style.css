@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    padding: 2rem;
+    background-color: #333;
+    color: rgb(52, 236, 227);
+    min-height: 100vh;
+    align-items: center;
+    font-size: 2rem;
+}
+
+input,
+button {
+    font-size: 2rem;
+    padding: 1rem;
+    border-radius: 10px;
+}
